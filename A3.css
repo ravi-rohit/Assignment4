@@ -1,0 +1,51 @@
+*
+{
+    position: relative;
+    margin:0px;
+    padding: 0px;
+}
+#body
+{
+    background-color: rgb(190, 129, 48);
+    width: 100%;
+}
+.header
+{
+    position: relative;
+    height: 80px;
+    background-color: rgb(126, 126, 26);
+    font-size: 30px;
+    text-align: center;
+}
+.text_area
+{
+    position: relative;
+    top:25px;
+    height: 200px;
+    font-size: 20px;
+    background-color: aquamarine;
+}
+#text_area2
+{
+    position: relative;
+    top:35px;
+    height: 200px;
+    background-color: rgb(108, 90, 170);
+}
+#text_area3
+{
+    position: relative;
+    top:45px;
+    height: 200px;
+    background-color: rgb(255, 127, 138);
+}
+.heading
+{
+    position:relative;
+    left:1400px;
+    width: 100px;
+    height:40px;
+    background-color: rgb(165, 120, 84);
+    font-size: 20px;
+    text-align: center;
+}
